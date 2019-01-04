@@ -1,4 +1,4 @@
-# Memory Game Project
+# Arcade Game Project
 
 This is for the project by the course "Front-end Web Developer Nonodegree" from [Udacity](www.Udacity.com)
 
