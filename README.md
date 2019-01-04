@@ -1,20 +1,23 @@
-# Classic Arcade Game Clone Project
+# Memory Game Project
 
-## Table of Contents
+This is for the project by the course "Front-end Web Developer Nonodegree" from [Udacity](www.Udacity.com)
 
-- [Instructions](#instructions)
-- [Contributing](#contributing)
+## What is this?
 
-## Instructions
+This is a game to improve your memory by matching 2 cards.
 
-Use this [rubric](https://review.udacity.com/#!/rubrics/15/view) for self-checking your submission.
 
-Make sure the functions you write are **object-oriented** - either class functions (like `Player` and `Enemy`) or class prototype functions such as `Enemy.prototype.checkCollisions`. Also make sure that the keyword `this` is used appropriately within your class and class prototype functions to refer to the object the function is called upon.
+## How to play?
 
-Your **README.md** file should be updated with instructions on both how to 1. Run and 2. Play your arcade game.
+1. You can click and open whatever you want and have to match 2 cards by memorizing cards you opened.
+2. You can open only 2 cards one time and the open cards will be flipped back over if 2 cards don't match.
+3. There are total 16 cards and 8 pairs of cards which have the same icons.
+4. You can get 3 stars when the 'moves' is to 13 and 2 stars when the 'moves' is from 14 to 17. From 18, I'm sorry that you can get only 1 star.
+5. Limit time is 10 minutes. (enough time to have lunch during the game!)
+6. Just Enjoy it!
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
 
-## Contributing
+## How to build?
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+Basic template was provided by Udacity and I input codes for Javascript and some parts of HTML and CSS. As a beginner, I studied codes and how to manipulate them from many websites, for this reason I refered to some parts of Javascript codes. I didn't coppy all the codes, but if you find some problems or plagiarization, please let me know.
+Thanks and just enjoy this.
